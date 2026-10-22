@@ -1,2 +1,7 @@
+#!/bin/bash
 read -p "Enter your name: " name
-echo "Hello, $name!"
+if [ -z "$name" ]; then
+    echo "Hello, Guest!"
+else
+    echo "Hello, $name!"
+fi
