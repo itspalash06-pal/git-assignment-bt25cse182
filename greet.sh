@@ -5,3 +5,4 @@ if [ -z "$name" ]; then
 else
     echo "Hello, $name!"
 fi
+# Script author: Partner contribution
