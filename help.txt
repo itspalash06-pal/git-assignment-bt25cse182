@@ -1,0 +1,5 @@
+menu.sh Instructions:
+1. Greet User: Enter your name to receive a custom greeting.
+2. Add Two Integers: Enter two integers to calculate their sum.
+3. Check Even or Odd: Test any integer for parity.
+4. Exit: Terminate the script.
